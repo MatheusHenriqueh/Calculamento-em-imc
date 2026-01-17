@@ -1,6 +1,6 @@
 # =====================================================
 # 🧮 Calculadora de IMC - Projeto completo em Python
-# Autor: Matheus Ruivo
+# Autor: Matheus Henrique
 # GitHub: https://github.com/MatheusHenriqueh
 # Descrição: Calcula o Índice de Massa Corporal (IMC)
 # =====================================================
